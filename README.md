@@ -46,8 +46,9 @@ CREDIT-CARD-FRAUD-ML/
 Clone the repository:
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd CREDIT-CARD-FRAUD-ML
+git clone https://github.com/ojas4414/Credit-Card-Fraud-Detection-System.git
+cd Credit-Card-Fraud-Detection-System
+
 ```
 
 Install dependencies:
